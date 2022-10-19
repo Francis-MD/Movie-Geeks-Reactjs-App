@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Movie-Geeks-Reactjs-App/static/css/main.334bdeb1.css",
+    "main.js": "/Movie-Geeks-Reactjs-App/static/js/main.c85361cc.js",
+    "index.html": "/Movie-Geeks-Reactjs-App/index.html",
+    "static/media/search.svg": "/Movie-Geeks-Reactjs-App/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/Movie-Geeks-Reactjs-App/static/css/main.334bdeb1.css.map",
+    "main.c85361cc.js.map": "/Movie-Geeks-Reactjs-App/static/js/main.c85361cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.c85361cc.js"
+  ]
+}
