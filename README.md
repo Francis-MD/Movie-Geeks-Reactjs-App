@@ -1,4 +1,4 @@
-# Movie-Geeks-Reactjs-App
+# Movie Geeks Reactjs App
 
 ## Description
 Using React.js I built an application to find our favorite movies using The OMDb API.
